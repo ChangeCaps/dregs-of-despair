@@ -1,0 +1,5 @@
+# Character
+
+* Constitution
+* Endurance
+* 
