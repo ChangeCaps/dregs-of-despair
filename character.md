@@ -2,4 +2,4 @@
 
 * Constitution
 * Endurance
-* 
+* Intelligence
