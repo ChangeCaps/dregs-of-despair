@@ -35,3 +35,6 @@ but are acquired trough levels.
 * Swimming -- *Agility*
 * Religion -- *Faith*
 
+## Feats
+Most feats can be acquired through leveling up, however, some feats can also be obtained by learning them during your adventures.
+The limit to how many feats one character can have is tied to the character's level. 
