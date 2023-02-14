@@ -1,18 +1,36 @@
 # Character
 
-### Health
+## Health
 Health is a representations of a characters physical well being, and when it reaches zero, 
 the character dies.
 
-### Defense
+## Defense
 While wearing armor or other protective equipment, the character will take reduced 
 damage from attacks. The amount reduced is determined by that characters [defense](#Defense).
 
-### Madness
+There are two types of damage, physical and magical. A piece of armor can all reduce these differently.
 
-### Initiative
+### Physical Damage
+Physical damages comes in three forms.
+* Slashing
+* Piercing
+* Bashing
 
-### Speed
+Slashing damage comes from sharp, cutting attacks and is easily defended against by most armor.
+
+Piercing damage is dealt by pokes like those of rapiers and spears and is harder to defend against.
+
+Bashing damage comes from heavy blunt weapons, and is without magic by far the hardest to deal with, but often does the least damage.
+
+### Elemental Damage
+
+## Dodge
+
+## Madness
+
+## Initiative
+
+## Speed
 
 ## Attributes
 Attributes describe a characters innate abilities, these can't be taught or learned, 
